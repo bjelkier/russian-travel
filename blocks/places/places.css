@@ -22,9 +22,7 @@
 }
 
 @media screen and (max-width: 660px) {
-  .places {
-    max-height: 5177px;
-  }
+  .places {}
 }
 
 @media screen and (max-width: 320px) {
@@ -33,6 +31,5 @@
     margin-left: 0;
     margin-right: 0;
     max-width: 320px;
-    max-height: 5177px;
   }
 }

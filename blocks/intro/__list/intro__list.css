@@ -9,8 +9,9 @@
   max-width: 690px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 600px) {
   .intro__list {
     margin-top: 34px;
+    max-width: fit-content;
   }
 }

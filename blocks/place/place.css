@@ -33,6 +33,6 @@
   .place {
     grid-template-columns: fit-content(320px);
     gap: 32px;
-    margin-top: 64px;
+    margin-top: 50px;
   }
 }
