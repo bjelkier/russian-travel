@@ -1,0 +1,28 @@
+.lead__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin: auto;
+  margin-top: 64px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__container {
+    margin-left: 4.69%;
+    margin-right: 4.69%;
+    margin-top: 56px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__container {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__container {
+    margin-top: 40px;
+  }
+}

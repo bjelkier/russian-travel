@@ -1,0 +1,15 @@
+.place__link {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  text-decoration: underline;
+  color: #ffffff;
+  justify-self: end;
+}
+
+.place__link:hover {
+  opacity: 50%;
+  transition: 0.5s;
+  cursor: url(../../../images/cursor-pointer.svg), pointer;
+}
