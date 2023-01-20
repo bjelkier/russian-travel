@@ -17,9 +17,7 @@
   .intro__title {
     margin-top: 64px;
     font-size: 32px;
-    font-weight: 900;
     line-height: 35px;
-    text-align: left;
     max-width: fit-content;
   }
 }

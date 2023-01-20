@@ -4,18 +4,20 @@
   line-height: 14px;
   letter-spacing: 0.15em;
   text-align: left;
-  margin-top: 8px;
+  margin: 8px 0 0 0;
   max-width: 158px;
+  text-transform: uppercase;
+  padding: 0;
 }
 
 @media screen and (max-width: 768px) {
   .lead__caption {
-    margin-left: 24px;
+    margin-left: 3.125%;
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead__caption {
-    margin-left: 16px;
+    margin-left: 5%;
   }
 }

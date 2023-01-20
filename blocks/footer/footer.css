@@ -9,25 +9,21 @@
 
 @media screen and (max-width: 1194px) {
   .footer {
-    margin-left: 3.75%;
-    margin-right: 3.75%;
+    margin: 92px 3.75% 0 3.75%;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .footer {
-    margin-left: 3.75%;
-    margin-right: 3.75%;
     max-width: 928px;
+    margin: 92px 4.69% 0 4.69%;
   }
 }
 
 @media screen and (max-width: 768px) {
   .footer {
     max-width: 720px;
-    margin-top: 88px;
-    margin-left: 3.125%;
-    margin-right: 3.125%;
+    margin: 88px 3.125% 0 3.125%;
   }
 }
 
@@ -36,8 +32,6 @@
     max-width: 186px;
     max-height: 310px;
     flex-direction: column;
-    margin-top: 64px;
-    margin-left: 5%;
-    margin-right: 36.875%;
+    margin: 64px 5% 0;
   }
 }

@@ -6,10 +6,11 @@
   text-decoration: underline;
   color: #ffffff;
   justify-self: end;
+  margin-top: 12px;
 }
 
 .place__link:hover {
-  opacity: 50%;
+  opacity: 0.8;
   transition: 0.5s;
   cursor: url(../../../images/cursor-pointer.svg), pointer;
 }

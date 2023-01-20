@@ -17,23 +17,24 @@
   }
 }
 
+@media screen and (max-width: 950px) {
+  .header {
+    margin: auto;
+    max-width: 720px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .header {
-    max-width: 720px;
     min-width: 288px;
     margin-left: 3.33%;
     margin-right: 3.33%;
   }
 }
 
-@media screen and (max-width: 768px) {
-  .header {
-    max-width: 288px;
-  }
-}
-
 @media screen and (max-width: 320px) {
   .header {
+    max-width: 288px;
     padding-top: 16px;
   }
 }
