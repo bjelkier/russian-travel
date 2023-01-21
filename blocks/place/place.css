@@ -31,6 +31,7 @@
 
 @media screen and (max-width: 320px) {
   .place {
+    grid-template-columns: fit-content(100%);
     margin-top: 50px;
   }
 }
