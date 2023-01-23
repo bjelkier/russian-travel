@@ -10,5 +10,6 @@
   .place__paragraphs {
     padding-left: 5%;
     padding-right: 5%;
+    gap: 25px;
   }
 }

@@ -25,6 +25,8 @@
   .photo-grid {
     grid-template-columns: repeat(2, minmax(min-content, 352px));
     margin: 88px 3.125% 0 3.125%;
+    padding-bottom: 15px;
+    gap: 16px;
   }
 }
 
@@ -33,5 +35,6 @@
     grid-template-columns: 1fr;
     gap: 12px;
     margin: 64px 5% 0 5%;
+    padding-bottom: 0;
   }
 }
